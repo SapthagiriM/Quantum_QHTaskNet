@@ -21,6 +21,15 @@ GPU: NVIDIA GPU with CUDA support (8GB+ VRAM recommended)
 CPU: Multi-core processor (6+ cores recommended)
 RAM: 16GB+ recommended
 
+# Dataset
+filename: final_training_dataset
+
+Dataset Sizes:
+Training tasks: 10,000
+Validation tasks: 2,500
+Test tasks (Monte Carlo): 2,500
+Final held-out tasks: 2,500
+
 📊 Model Architecture
 Input Layer: 18-dimensional feature vector (task + server characteristics)
 Feature Projection: Learned compression to quantum dimension
