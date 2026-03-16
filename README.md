@@ -140,14 +140,7 @@ Synthetically generated Edge-IoT task offloading dataset (10,000 samples).
 
 ---
 
-## Citation
 
-If you use this code or results in your work, please cite:
-
-```
-Miriyala, S., & Chirra, V. R. (2025). QHTaskNet: A Variational Quantum-Classical
-Neural Network for Deadline-Aware Task Offloading in Edge-IoT.
-```
 
 ---
 
